@@ -99,7 +99,7 @@ header{
   margin-bottom: 100px;
   margin-left: auto;
   margin-right: auto;
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
   display: flex;
   justify-content: space-between;
@@ -114,7 +114,7 @@ header{
 }
 
 .two-columns__main-text{
-  width: 80%; 
+  width: 80%;
   min-width: 784px;
   justify-content: space-between;
   flex-direction: column;
@@ -180,7 +180,6 @@ header{
 }
 
 .table__cell{
-  margin-top: 60px;
   width: 250px;
   margin-top: 60px;
 }
