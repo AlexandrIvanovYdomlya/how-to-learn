@@ -5,7 +5,15 @@
 header{
   border: solid 1px brown;
 }*/
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 .page {
+  overflow: hidden;
+  position: relative;
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
   /* поэтому выше установлена минимальная ширина страницы */
