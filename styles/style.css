@@ -291,7 +291,6 @@
   background-color: #1f1f1f;
   position: relative;
   z-index: 0;
-  padding-bottom: 90px;
   overflow: hidden;
 }
 
@@ -323,11 +322,12 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  margin-bottom: 90px;
 }
 
 .kaufman__triangle{
   background-image: url(../images/kaufman-triangle.svg);
-  background-size: 877 877;
+  background-size: 877px 877px;
   position: absolute;
   width: 877px;
   height: 877px;
