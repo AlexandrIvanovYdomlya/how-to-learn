@@ -1,0 +1,21 @@
+.khan__buy-link{
+    text-align: left;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+    text-decoration: none;
+    z-index: 2;
+    color: #2f80ed;
+    transition-property: opacity;
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+    transition-delay: .1s;
+    vertical-align: top;
+}
+
+.khan__buy-link:hover{
+    opacity: .33;
+}
