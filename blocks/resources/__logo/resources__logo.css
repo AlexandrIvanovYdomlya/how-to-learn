@@ -4,7 +4,6 @@
     height: 38px;
     width: 270px;
     list-style-type: none;
-    display: inline-block;
     text-decoration: none;
     transition-property: opacity;
     transition-duration: 1s;
